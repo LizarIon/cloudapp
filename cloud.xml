@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<services>
+    <service>
+        <name>Виртуальная машина</name>
+        <description>Облачный сервер с настраиваемой конфигурацией</description>
+        <price>500</price>
+    </service>
+    <service>
+        <name>Объектное хранилище</name>
+        <description>S3-совместимое хранилище данных</description>
+        <price>200</price>
+    </service>
+    <service>
+        <name>База данных</name>
+        <description>Управляемая СУБД MariaDB/PostgreSQL</description>
+        <price>400</price>
+    </service>
+</services>

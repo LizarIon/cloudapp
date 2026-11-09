@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<catalog>
+    <book>
+        <author>Джеймс С.А. Кори</author>
+        <title>Пространство</title>
+        <pubyear>2026</pubyear>
+        <price>1400</price>
+    </book>
+    <book>
+        <author>Джоан Кэтлин Роулинг</author>
+        <title>Гарри Поттер и философский камень</title>
+        <pubyear>1997</pubyear>
+        <price>900</price>
+    </book>
+</catalog>
